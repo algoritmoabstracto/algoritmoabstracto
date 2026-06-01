@@ -4,11 +4,11 @@
 
 > _Donde la lógica se encuentra con la creatividad. Explorando la intersección entre Diseño Web, Inteligencia Artificial y Código Puro._
 
-```bash
-guest@algoritmo:~$ Inicializando entorno de red en GitHub...
-guest@algoritmo:~$ Sincronización Cuántica: 84.00%
-guest@algoritmo:~$ Entropía del Sistema: 32.41%
-guest@algoritmo:~$ status: Proyecto Personal Activo
+```diff
++ guest@algoritmo:~$ Inicializando entorno de red en GitHub...
++ guest@algoritmo:~$ Sincronización Cuántica: 84.00%
++ guest@algoritmo:~$ Entropía del Sistema: 32.41%
++ guest@algoritmo:~$ status: Proyecto Personal Activo
 ```
 
 ---
