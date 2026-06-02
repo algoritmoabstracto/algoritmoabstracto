@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="img/banner.png" alt="Algoritmo Abstracto" width="100%">
-</p>
+<p align="center"><a href="https://algoritmoabstracto.qd.je/" target="_blank" rel="noopener"><img src="img/banner.png" alt="Algoritmo Abstracto" width="100%"></a></p>
 
 > _Donde la lógica se encuentra con la creatividad. Explorando la intersección entre Diseño Web, Inteligencia Artificial y Código Puro._
 
