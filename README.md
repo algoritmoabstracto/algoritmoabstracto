@@ -18,8 +18,8 @@
 Aquí se almacenan los *fragmentos de memoria* de mis experimentos con:
 
 * **{/} Desarrollo Web y Programación:** Arquitecturas digitales construidas desde cero y pruebas de código puro.
-* **✧ Diseño Gráfico:** Exploración de interfaces y búsqueda de una estética visual oscura, limpia y misteriosa.
-* **~ Inteligencia Artificial:** Simbiosis entre humano y máquina. Pruebas de integración, generación y comportamiento de IAs.
+* **✎ Diseño Gráfico:** Exploración de interfaces y búsqueda de una estética visual oscura, limpia y misteriosa.
+* **✧ Inteligencia Artificial:** Simbiosis entre humano y máquina. Pruebas de integración, generación y comportamiento de IAs.
 * **> Git y Control de Versiones:** Aprendiendo a organizar y dominar repositorios para controlar la *entropía del sistema*.
 
 ---
